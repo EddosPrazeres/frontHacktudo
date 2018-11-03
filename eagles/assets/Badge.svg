@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="47px" viewBox="0 0 34 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>1*/Badge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1*/Badge" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primeiro-nivel">
+            <g id="award" fill-rule="nonzero">
+                <path d="M9.01602399,45.1747571 L7,46.7245958 L7,19 C7.65492541,19.3217163 8.32765734,19.6139526 9.01602399,19.8741455 L9.01602399,45.1747571 Z M24.0899471,45.1747571 L26.1059711,46.7245958 L26.1059711,19 C25.4510457,19.3217163 24.7783137,19.6139526 24.0899471,19.8741455 L24.0899471,45.1747571 Z M23.1095089,43.9708319 L16.8395091,40.137146 C16.6683946,40.0807495 16.4833825,40.0807495 16.3122681,40.137146 L10.0418339,43.9708319 L10.0418339,20.3532837 C12.1138828,20.9599732 14.3066672,21.2876708 16.5758885,21.2876708 C18.8455443,21.2876708 21.0378944,20.9599732 23.1099432,20.3532837 L23.1099432,42.1930542 L23.1095089,43.9708319 Z" id="Shape" fill="#473BF0"></path>
+                <ellipse id="Oval" fill="#FAC917" cx="17" cy="16.8" rx="17" ry="16.8"></ellipse>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1.2" cx="17" cy="16.8" rx="13.3571429" ry="13.2"></ellipse>
+            </g>
+            <text id="+1" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="14.4" font-weight="500" fill="#FFFFFF">
+                <tspan x="7.79137143" y="21.2">+1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

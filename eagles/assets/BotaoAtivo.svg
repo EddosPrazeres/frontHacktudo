@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>*1/ Botão ativo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="*1/-Botão-ativo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Botão-ativo">
+            <circle id="Oval" stroke="#6800C1" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" cx="16" cy="16" r="16"></circle>
+            <text id="1" font-family="OpenSans-Semibold, Open Sans" font-size="20" font-weight="500" line-spacing="22" fill="#575757">
+                <tspan x="0" y="25">1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
