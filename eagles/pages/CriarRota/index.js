@@ -61,7 +61,7 @@ export default class CriarRota extends Component {
 
     renderRange = () => {
         return <View style={styles.typeDefault}>
-            <Text>Quão longe está disposto a ir? </Text>
+            <Text style={styles.typeDefaulTitle}>Quão longe está disposto a ir? </Text>
         </View>
     }
 
@@ -93,7 +93,7 @@ export default class CriarRota extends Component {
 
     rendeOutdoor = () => {
         return <View style={styles.typeToggle}>
-            <Text>
+            <Text style={styles.typeDefaulTitle}>
                 Ao ar livre
             </Text>
             <ToggleSwitch

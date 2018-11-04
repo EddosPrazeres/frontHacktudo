@@ -29,7 +29,10 @@ export default StyleSheet.create({
     typeDefaulTitle: {
         borderColor: '#dedede',
         borderBottomWidth: 1,
-        paddingBottom: 20
+        paddingBottom: 20,
+        fontSize: 16,
+        fontWeight: '600',
+        color: '#575757',
     },
     loginScreenSurprise:{
         marginRight:40,
@@ -70,9 +73,30 @@ export default StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-between'
     },
-    img: {
+    SecondView: {
+        paddingTop: 56,
+        flex: 1,
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'flex-start',
+        marginTop: 0,
+    },
+    SecondViewImage: {
         width: 320,
-        height: 230
+        height: 230,
+        marginBottom: 16,
+    },
+    SecondViewTitle: {
+        textAlign: 'center',
+        fontWeight: '600',
+        fontSize: 24,
+        color: '#141414'
+    },
+    SecondViewText: {
+        textAlign: 'center', 
+        fontSize: 24,
+        color: '#141414'
+
     }
 
 });
